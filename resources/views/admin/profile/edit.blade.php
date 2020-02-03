@@ -1,0 +1,4 @@
+public function edit()
+  {
+      return view('admin.profile.edit');
+  }
